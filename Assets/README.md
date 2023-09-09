@@ -1,0 +1,1 @@
+This was the first real unity game I made. No further updates are really gonna be made to it until I get better at unity, for now if anyone wants to update it themselves, feel free to.

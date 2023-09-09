@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Over.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Under.unity
+    guid: 2e85d88001bb84d2d9619d5f3892e683
+  - enabled: 1
+    path: Assets/Scenes/GeometryDashAhhLevel.unity
+    guid: 116522b9c1ee8ab4b8e0490e6e532d33
+  - enabled: 1
+    path: Assets/Scenes/ScaleUp.unity
+    guid: 2d3e90816520e3d4692e5c6c75918499
+  - enabled: 1
+    path: Assets/Scenes/TheCrusher.unity
+    guid: 41390292147cbb64382eae1ee7fe0b1c
+  - enabled: 1
+    path: Assets/Scenes/GoThrough.unity
+    guid: 168be661a117547edb2fa5686c898f03
+  - enabled: 1
+    path: Assets/Scenes/GGs.unity
+    guid: e6534bde01ee7e046987d56536f20728
+  m_configObjects: {}
