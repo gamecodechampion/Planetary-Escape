@@ -6,12 +6,12 @@ using UnityEngine.InputSystem;
 
 public class Movement : MonoBehaviour
 {
-    [SerializeField] float thrustSpeed = 100f;
-    [SerializeField] float rotationSpeed = 100f;
-    [SerializeField] AudioClip mainEngine;
-    [SerializeField] ParticleSystem rocketJet;
-    [SerializeField] ParticleSystem rightBooster;
-    [SerializeField] ParticleSystem leftBooster;
+    public float thrustSpeed = 100f;
+    public float rotationSpeed = 100f;
+    public AudioClip mainEngine;
+    public ParticleSystem rocketJet;
+    public ParticleSystem rightBooster;
+    public ParticleSystem leftBooster;
     Rigidbody rb;
     AudioSource audioSource;
     Controller control;
